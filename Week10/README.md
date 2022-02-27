@@ -1,6 +1,4 @@
-## In this week's chapter **"Dimensionality Reduction"** we laerned about:
+## In this week's chapter **"..."** we laerned about:
 
-* ACP
-* ADL
-* Pipelines of scikit-learn
+* ...
 * ###### and more
