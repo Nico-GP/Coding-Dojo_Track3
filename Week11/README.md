@@ -3,7 +3,7 @@
 * Introduction to deep learning
 * Neural networks in Keras
 * Dilution
-* Early detection
+* Early detention
 * RNC
 * RNN
 * ###### and more
