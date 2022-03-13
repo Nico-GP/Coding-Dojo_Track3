@@ -1,4 +1,4 @@
-## In this week's chapter **"Grradient boosting"** we laerned about:
+## In this week's chapter **"Gradient boosting"** we laerned about:
 
 * Boosting
 * LightGBM
