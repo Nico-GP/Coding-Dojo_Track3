@@ -4,6 +4,6 @@
 * Neural networks in Keras
 * Dilution
 * Early detention
-* RNC
+* CNN
 * RNN
 * ###### and more
